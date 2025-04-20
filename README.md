@@ -3,10 +3,10 @@
 This repository contains the code and methodologies developed during the CBIO Hackathon 2025 for predicting intrinsically disordered regions (IDRs) in proteins using sequence-based features and structural insights.
 
 ## Contributors
-- **Noa Birman:** Data collection, HMM model, and pLDDT
-- **Dana Siton:** Data preprocessing and analyses
-- **Tsori Kislev:** ESM2 embeddings and Logistic Regression model
-- **Tal Neumann:** ESM2 embeddings and Multi-Layer Perceptron (MLP) model
+- **Noa Birman:**
+- **Dana Siton:** 
+- **Tsori Kislev:** 
+- **Tal Neumann:** 
 
 ## Project Overview
 
