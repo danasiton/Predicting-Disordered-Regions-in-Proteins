@@ -2,12 +2,6 @@
 
 This repository contains the code and methodologies developed during the CBIO Hackathon 2025 for predicting intrinsically disordered regions (IDRs) in proteins using sequence-based features and structural insights.
 
-## Contributors
-- **Noa Birman:**
-- **Dana Siton:** 
-- **Tsori Kislev:** 
-- **Tal Neumann:** 
-
 ## Project Overview
 
 Intrinsically disordered regions (IDRs) play crucial roles in biological processes like molecular recognition, signaling, and regulation. This project leverages computational methods to predict these regions using sequence data and structural predictions.
